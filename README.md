@@ -20,3 +20,5 @@ A one-page resume website built using HTML and CSS.
 ---
 
 Created by Garima Rajput
+## 🌐 Live Website
+🔗 https://garima200610-cloud.github.io/Student-Resume-Website/
